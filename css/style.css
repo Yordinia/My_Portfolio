@@ -11,6 +11,7 @@ body {
 }
 
 .nav-container {
+  display: flex;
   height: 48px;
   width: 375px;
   left: 0;
@@ -19,7 +20,6 @@ body {
   justify-content: space-between;
   align-items: center;
   margin: 24px 0;
-  display: flex;
   padding: 0 35px;
 }
 
@@ -40,6 +40,11 @@ body {
   font-weight: 600;
   font-size: 20px;
   line-height: 28px;
+}
+
+.menu img {
+  width: 25px;
+  height: 25px;
 }
 
 .menu {
