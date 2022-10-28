@@ -1,0 +1,11 @@
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.main {
+  text-align: center;
+  background-image: url('images/background.png');
+}
