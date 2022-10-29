@@ -55,7 +55,7 @@ body {
 }
 
 .main {
-  background: #fff url(../images/background.png) no-repeat;
+  background: #fff url(../images/bground.png) no-repeat;
   background-size: 100%;
   overflow: hidden;
   display: flex;
