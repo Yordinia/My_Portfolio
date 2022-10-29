@@ -61,7 +61,7 @@ body {
 }
 
 .main {
-  background: #fff url(../images/BACKGROUND.png) no-repeat;
+  background-image: #fff url(../images/BACKGROUND.png) no-repeat;
   background-size: 100%;
   display: flex;
   flex-direction: column;
@@ -448,8 +448,8 @@ li {
   text-align: center;
   justify-content: center;
   align-items: center;
-  background: url(../images/illust-form.png) no-repeat 100% 90%;
   padding: 2em 5em;
+  background: url(../images/illust-form.png) no-repeat 100% 90%;
 }
 
 .footer-title h2 {
