@@ -311,7 +311,7 @@ a {
   flex-direction: column;
   width: 327px;
   margin-top: 2em;
-  background: url(../images/illustration\ 1-\ about\ me-mobile.png) no-repeat 100% 0%, url(../images/illustration\ 2-about\ me\ mobile.png) no-repeat 0 300px;
+  background: url(../images/illust1.png) no-repeat 100% 0%, url(../images/illust2.png) no-repeat 0 300px;
   text-align: center;
   padding: 2em;
 }
@@ -442,7 +442,7 @@ a {
   text-align: center;
   justify-content: center;
   align-items: center;
-  background: url(../images/illustration-contact-form.png) no-repeat 100% 90%;
+  background: url(../images/illust-form.png) no-repeat 100% 90%;
   padding: 2em 5em;
 }
 
