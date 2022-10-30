@@ -1,4 +1,4 @@
-# My_Portfolio :star :+1  
+# My_Portfolio   
 <img alt="An image illustrating sunlight and moon images, depending on the theme" src="images/sun.png">
 
 **A little about me **
@@ -44,7 +44,9 @@ Deployed on Github
 
 ## 🤝 Contributing
 
+```
 Contributions, issues, and feature requests are welcome!
+```
 
 Feel free to check the [issues page](../../issues/).
 
