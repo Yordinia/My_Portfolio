@@ -1,6 +1,6 @@
-# My_Portfolio
-**A little about me - A website built in HTML and CSS**
+# My_Portfolio :star :+1  **A little about me **
 
+<img alt="An image illustrating sunlight and moon images, depending on the theme" src="images/sun.png">
 
 ## Built With
 
