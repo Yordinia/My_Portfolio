@@ -1,16 +1,33 @@
-# My_Portfolio :star :+1  **A little about me **
-
+# My_Portfolio :star :+1  
 <img alt="An image illustrating sunlight and moon images, depending on the theme" src="images/sun.png">
+
+**A little about me **
+I'm Yordanos Temesgen (Yordi). I have background in learning, knowing how to learn, and also learning how to learn ! :-) 
+## Current status
+- A fulltime Microverse Student
 
 ## Built With
 
-- HTML & CSS
-- No Framework
-- Linters
+| No   | Languages | Framesworks |      Additional      |  Hobbies    |
+|------|----------:|-------------|----------------------|-------------|
+|     1|       HTML|   NONE   --:| Installed Linters    |Family Time  |
+|     2|        CSS|             |                      |   Youtube   |           
+|     3||          |             |                      |    :+1      |    
+
 
 ## Getting Started
-
+<details>
 To get a local copy up and running follow these simple example steps.
+
+<summary>My favorite quote</summary>
+---
+> Failure is an opportunity to learn.
+<img src='images/quote.png' alt='An image illustrating the following quote - Failure is an opportunity to learn.'/>
+
+</details>
+
+<!-- This is a horizontal line here '---' and starting with > makes a quote like bar -->
+
 
 ### Deployment
 
